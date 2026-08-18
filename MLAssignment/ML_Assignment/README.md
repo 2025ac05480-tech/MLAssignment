@@ -159,7 +159,6 @@ https://mlassignment-xebabgvvabmxz3xdzzsxcp.streamlit.app/
 
 ## 21. BITS Virtual Lab Evidence Placeholder
  
- ![alt text](image.png)
 ![alt text](image-1.png)
 
 ## 22. Reproducibility Notes
