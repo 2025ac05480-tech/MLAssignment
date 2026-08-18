@@ -156,7 +156,9 @@ https://github.com/2025ac05480-tech/MLAssignment/tree/main
 https://mlassignment-rsxxskys5aadgapphhas7pe.streamlit.app/
 
 ## 21. BITS Virtual Lab Evidence Placeholder
-[Insert one execution screenshot in final PDF]
+ 
+ ![alt text](image.png)
+![alt text](image-1.png)
 
 ## 22. Reproducibility Notes
 - Fixed seeds are used with `random_state=42` where supported.
