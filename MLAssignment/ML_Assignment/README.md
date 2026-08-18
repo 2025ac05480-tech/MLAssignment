@@ -155,7 +155,7 @@ streamlit run app.py
 https://github.com/2025ac05480-tech/MLAssignment/tree/main
 
 ## 20. Live Streamlit Application Link Placeholder
-https://mlassignment-rsxxskys5aadgapphhas7pe.streamlit.app/
+https://mlassignment-xebabgvvabmxz3xdzzsxcp.streamlit.app/
 
 ## 21. BITS Virtual Lab Evidence Placeholder
  
