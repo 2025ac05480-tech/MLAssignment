@@ -1,0 +1,26 @@
+{
+  "required_raw_features": [
+    "age",
+    "job",
+    "marital",
+    "education",
+    "default",
+    "balance",
+    "housing",
+    "loan",
+    "contact",
+    "day",
+    "month",
+    "duration",
+    "campaign",
+    "pdays",
+    "previous",
+    "poutcome"
+  ],
+  "target_column": "y",
+  "optional_identifier_columns": [],
+  "allowed_target_labels": [
+    "no",
+    "yes"
+  ]
+}

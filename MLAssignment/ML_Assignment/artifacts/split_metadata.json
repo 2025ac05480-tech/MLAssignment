@@ -1,0 +1,26 @@
+{
+  "dataset_filename": "bank-full.csv",
+  "dataset_path_note": "Original source dataset is kept unchanged at workspace root.",
+  "separator": ";",
+  "shape": [
+    45211,
+    17
+  ],
+  "n_rows": 45211,
+  "n_columns": 17,
+  "n_predictor_features": 16,
+  "target_column": "y",
+  "target_labels": [
+    "no",
+    "yes"
+  ],
+  "class_distribution_raw": {
+    "no": 39922,
+    "yes": 5289
+  },
+  "train_rows": 36168,
+  "test_rows": 9043,
+  "test_size": 0.2,
+  "random_state": 42,
+  "stratified": true
+}
