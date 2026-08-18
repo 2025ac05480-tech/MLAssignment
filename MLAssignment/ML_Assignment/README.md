@@ -6,7 +6,7 @@ The goal is to predict whether a bank customer subscribes to a term deposit usin
 
 ## 3. Dataset Description
 - Dataset name: UCI Bank Marketing (local file: `bank-full.csv`)
-- Source link placeholder: [Add official source link before submission]
+- Source link: https://www.kaggle.com/datasets/adityamhaske/bank-marketing-dataset
 - Actual rows: 45,211
 - Actual columns: 17
 - Predictor features (excluding target): 16
@@ -95,7 +95,7 @@ Held-out test split results:
 
 ## 13. Project Structure
 ```text
-project-folder/
+ML_Assignment/
 |-- app.py
 |-- train_models.py
 |-- preprocessing.py
@@ -112,6 +112,7 @@ project-folder/
 |   |-- naive_bayes.joblib
 |   |-- random_forest.joblib
 ```
+The original sataset(bank-full.csv) is present one level above project folder.
 
 ## 14. Local Setup and Execution
 Create and activate a virtual environment:
