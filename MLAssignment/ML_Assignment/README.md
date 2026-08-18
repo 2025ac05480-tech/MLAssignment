@@ -1,5 +1,7 @@
 # 1. Project Title
-Machine Learning Assignment 2: UCI Bank Marketing Classification Dashboard
+# Machine Learning Assignment 2: UCI Bank Marketing Classification Dashboard
+
+**Student ID:** 2025ac05480
 
 ## 2. Problem Statement
 The goal is to predict whether a bank customer subscribes to a term deposit using the UCI Bank Marketing dataset. This project trains and compares five classification models, evaluates them using required metrics, and provides a Streamlit application for interactive prediction and result inspection.
